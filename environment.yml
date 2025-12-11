@@ -11,3 +11,4 @@ dependencies:
   - yaml=0.2.5
   - pyyaml=6.0.3
   - conda-lock=3.0.4
+  - pytest
